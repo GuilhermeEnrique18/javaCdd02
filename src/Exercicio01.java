@@ -5,6 +5,6 @@ public class Exercicio01 {
 
         String str = " texto para retirar espaçoes no início e fim ";
         System.out.println(str.trim());
-        
+
     }
 }
